@@ -9,7 +9,7 @@
   "author": "Bashu Tiwari",
   "license": "ISC",
   "engines": {
-    "node": "10.24.1"
+    "node": "14.17.4"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
